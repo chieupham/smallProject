@@ -3,6 +3,7 @@
 ### TODO list
 
 - [x] Getting Started with GitHub Pages : https://www.youtube.com/watch?v=QyFcl_Fba-k
+- [x] Animated Login Form using HTML & CSS only | No JavaScript or jQuery : https://www.youtube.com/watch?v=eeHqZeJ9Vqc 
 - [ ] Java Login Page
 
 ### Git Commands:
