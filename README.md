@@ -12,3 +12,4 @@
 - git push origin main
 
 - git checkout -b new_branch
+- git push origin new_branch
