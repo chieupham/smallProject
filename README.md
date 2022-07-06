@@ -1,13 +1,6 @@
 # smallProject
 
-### Solar System Exploration, 1950s – 1960s
+### TODO list
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [x] Getting Started with GitHub Pages : https://www.youtube.com/watch?v=QyFcl_Fba-k
+- [ ] Java Login Page
