@@ -10,14 +10,14 @@
     <!-- This is the login page -->
     <div class="center">
         <h1>Login</h1>
-        <form method="post">
+        <form class="login_form" method="post" name="form" onsubmit="return validated">
             <div class="txt_field">
-                <input type="text" required>
+                <input type="text" name="idInput" required>
                 <span></span>
                 <label>Username</label>
             </div>
             <div class="txt_field">
-                <input type="password" required>
+                <input type="password" name="passwordInput" required>
                 <label>Password</label>
             </div>
             <div class="pass">Forgot password ?</div>
@@ -27,5 +27,7 @@
             </div>
         </form>
     </div>
+    <!-- Add Javascript file -->   
+    <script scr="valid.js"></script>
 </body>
 </html>
