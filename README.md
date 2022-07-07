@@ -14,6 +14,7 @@
 
 - git checkout -b new_branch
 - git push origin new_branch
-
+- git checkout old_brach 
+- git merge new_branch              // Please need to be sure !
 ### Note :
 - Pay attention : DO NOT modify code directly Github website
