@@ -2,8 +2,7 @@
 
 ### TODO list
 
-- [] Login Form Validation using HTML CSS & Javascript : https://www.youtube.com/watch?v=9zzX2fbkzWU 
-- [ ] Java Login Page
+- [ ] Spring boot
 
 ### Git Commands:
 - git branch
@@ -28,6 +27,11 @@
 - Launch a development local Server : https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer 
 - (Ctrl+K+V) : Open markdown preview to the side
 
+###
+- Ctrl + U : Source website
+- Ctrl + Shift + K : Console
+
 ### Source :
 - Getting Started with GitHub Pages : https://www.youtube.com/watch?v=QyFcl_Fba-k
 - Animated Login Form using HTML & CSS only | No JavaScript or jQuery : https://www.youtube.com/watch?v=eeHqZeJ9Vqc 
+- Login Form Validation using HTML CSS & Javascript : https://www.youtube.com/watch?v=9zzX2fbkzWU 
